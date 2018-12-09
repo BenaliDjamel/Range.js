@@ -134,14 +134,3 @@ let Range = (function() {
 
 
 
-var myRange = new Range('0..11');
-
-myRange.each(function (r) {
-    console.log(r);
-});
-
-
-console.log(myRange.equals('0..11m'));
-console.log(myRange.includes(100));
-
-console.log(myRange.toArray());

@@ -1,5 +1,5 @@
 {
-  "name": "myrangelibrary-benali-djamel",
+  "name": "denali-djamel-myrangelibrary-js",
   "version": "1.0.1",
   "description": "a simple range library",
   "main": "Range.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/BenaliDjamel/Range.js.git"
   },
-  "author": "BenaliDjamel",
+  "author": "denalidjamel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BenaliDjamel/Range.js/issues"
