@@ -3,8 +3,8 @@ Range.js
 
 1) create file index.js
 2) run npm init 
-3) run npm i denali-djamel-myrangelibrary-js
-4) const Range = require('denali-djamel-myrangelibrary-js')
+3) run npm i range-js-caw
+4) const Range = require('range-js-caw')
 
 # Examples
 
